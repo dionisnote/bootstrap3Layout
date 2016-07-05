@@ -1,0 +1,49 @@
+.header-place{
+    margin-top: 50px;
+}
+.black {
+    color: black;
+}
+.inline-block {
+    display: inline-block;
+}
+.header-icon {
+    font-size: 80%;
+}
+
+.footer {
+    background: #f5f5f5;
+    height: 60px;
+}
+.text-muted{
+    margin: 20px 0;
+}
+
+.nav-custom-blue {
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.nav-custom-blue li{
+    width: 25%;
+    text-align: center;
+}
+.nav-custom-blue li a {
+    color: white;
+    background: #5bc0de;
+    border: 1px solid cornflowerblue;
+    border-right: none;
+    padding: 5px 15px;
+}
+.nav-custom-blue li:last-child a {
+    border-right: 1px solid cornflowerblue;
+
+}
+.nav-custom-blue li a:hover, .nav-custom-blue li a:active {
+    background: #5bc0de;
+}
+
+.nav-custom-blue li a span {
+    display: inline-block;
+    width: 100%;
+}
