@@ -29,6 +29,17 @@
     font-size: 120%;
     margin-bottom: 5px;
 }
+.panel-btns {
+    width: 100%;
+}
+.panel-btns .btn-default {
+    background: #fff;
+}
+
+.btn-group-vertical button {
+    width: 100%;
+    display: inline-block;
+}
 
 .msg-label {
     position: absolute;
